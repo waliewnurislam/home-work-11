@@ -1,0 +1,169 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body {
+  font-family: "Lato", sans-serif;
+}
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.header h1 {
+  margin-top: 100px;
+}
+.header h2 {
+  width: 877px;
+  height: 215px;
+  color: #272727;
+  font-size: 250px;
+  font-weight: 300;
+}
+.header p {
+  width: 575px;
+  height: 142px;
+  color: var(--, #161515);
+  font-size: 32px;
+  font-weight: 300;
+  margin-top: 60px;
+}
+
+.header button {
+  width: 278px;
+  height: 82px;
+  background: black;
+  font-size: 32px;
+  font-weight: 300;
+  color: #fff;
+  margin-top: 40px;
+}
+.header h3 {
+  width: 88px;
+  height: 38px;
+  color: #272727;
+
+  text-align: center;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 186%;
+  margin-left: 300px;
+  margin-top: -70px;
+}
+
+.pront-3 img {
+  margin-left: 800px;
+  margin-top: -560px;
+}
+
+.header-content {
+  align-items: center;
+}
+
+.header-content h1 {
+  width: 171px;
+  height: 41px;
+  color: #000;
+  font-size: 24px;
+  font-weight: 300;
+  margin-left: 540px;
+  margin-top: 200px;
+}
+
+.header-content h2 {
+  width: 285px;
+  height: 62px;
+  color: #000;
+  font-size: 72px;
+  font-weight: 400;
+  margin-left: 480px;
+}
+.box_1200 {
+  width: 417px;
+  height: 630px;
+  background: #f8f8f8;
+  margin-left: 370px;
+  margin-top: 150px;
+}
+.box-2000 {
+  margin-left: 450px;
+  margin-top: -530px;
+}
+.header-content-absolute h1 {
+  width: 285px;
+  height: 27px;
+  color: #000;
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.header-content-absolute p {
+  width: 531px;
+  height: 194px;
+  color: var(--, #161515);
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 155%;
+  margin-left: 350px;
+  margin-top: 40px;
+}
+
+.header-33 h1 {
+  color: var(--, #161515);
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.header-33 p {
+  width: 510px;
+  height: 196px;
+  color: var(--, #161515);
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 155%;
+  margin-left: 350px;
+}
+.box__220 {
+  width: 417px;
+  height: 630px;
+  background: #f8f8f8;
+  margin-left: 370px;
+  margin-top: 150px;
+}
+.fifa-55 {
+  margin-left: 450px;
+  margin-top: -570px;
+}
+.hero-absolute-titel h1 {
+  width: 972px;
+  height: 50px;
+  color: var(--, #161515);
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 186%;
+  text-transform: capitalize;
+  margin-left: 450px;
+}
+
+.line {
+  width: 220px;
+  height: 2px;
+  background: #000;
+  margin-top: 20px;
+  margin-left: 470px;
+}
+.hero-absolute-titel p {
+  width: 515px;
+  height: 231px;
+  color: var(--, #161515);
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 170%; /* 40.8px */
+  font-size: 24px;
+  /* font-weight: 500;
+  line-height: 170%; */
+  margin-top: 100px;
+  margin-left: 350px;
+}
